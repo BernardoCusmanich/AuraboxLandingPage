@@ -1,0 +1,10 @@
+:root {
+    --caixa-azul: 10px 10px 0px 0px rgba(0, 36, 50, 1);
+    --standard-text-font-family: "Schibsted Grotesk", Helvetica;
+    --standard-text-font-weight: 700;
+    --standard-text-font-size: 20px;
+    --standard-text-letter-spacing: 0px;
+    --standard-text-line-height: normal;
+    --standard-text-font-style: normal;
+    --caixa-laranja: 10px 10px 0px 0px rgba(247, 136, 55, 1);
+}
